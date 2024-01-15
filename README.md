@@ -14,8 +14,7 @@
 <a href="https://instagram.com/rizki_fauzi1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizki_fauzi1512" height="30" width="40" /></a>
 <a href="https://dribbble.com/rizkifauzi1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rizkifauzi1512" height="30" width="40" /></a>
 <a href="https://www.behance.net/rizkifauzi1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rizkifauzi1512" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rizkifauzi5131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rizkifauzi5131" height="30" width="40" /></a>
-<a href="https://discord.gg/ikyy6370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ikyy6370" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEvIsBCvjYir9JyJvFlI1Iw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rizkifauzi5131" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
