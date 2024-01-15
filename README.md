@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rizki Fauzi</h1>
-<h3 align="center">I am a UI/UX Designer and also an Android Developer and Front End Website Developer.</h3>
+[![Banner-1.jpg](https://i.postimg.cc/0jh2rzwp/Banner-1.jpg)](https://postimg.cc/PvzkRrKx)
+#
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkif15&label=Profile%20views&color=0e75b6&style=flat-square" alt="rizkif15" /> </p>
+<h3 align="left">Hi 👋, I'm Rizki Fauzi</h3>
+<h3 align="left">I am a programmer and digital designer from Indonesia.</h3>
 
 - 🔭 I’m currently working on [Hi-Service](https://github.com/hi-service)
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **Web Developer**
+  
+- 📫 How to reach me **rizkifauzi1512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkif15&show_icons=true&theme=dracula&locale=en" alt="rizkif15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkif15&theme=highcontrast" alt="rizkif15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkif15&theme=dark" alt="rizkif15" /></p>
