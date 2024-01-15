@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizki Fauzi</h1>
 <h3 align="center">I am a UI/UX Designer and also an Android Developer and Front End Website Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizkif15" alt="rizkif15" /></a> </p>
-
 - 🔭 I’m currently working on [Hi-Service](https://github.com/hi-service)
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript**
