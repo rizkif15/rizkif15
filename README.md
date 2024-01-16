@@ -1,5 +1,9 @@
+<h1 align="center">Hey there, i'm Rizki Fauzi 👋</h1>
+
+###
+
 <div align="center">
-  <img height="300" src="https://i.ibb.co/vmRCDQB/Frame-1.png"  />
+  <img height="" src="https://i.ibb.co/vmRCDQB/Frame-1.png"  />
 </div>
 
 ###
@@ -27,21 +31,11 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rizkif15.rizkif15&left_color=orange&right_color=orangered"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Rizki Fauzi from Indonesia<br><br>- 🔭 I'm a UI/UX Designer and Android Developer<br>- 📚 I'm currently learning Web Developer<br>- ⚡ In my free time I learn new things</p>
+<p align="left">- 🔭 I'm a UI/UX Designer and Android Developer<br>- 📚 I'm currently learning Web Developer<br>- ⚡ In my free time I learn new things</p>
 
 ###
 
