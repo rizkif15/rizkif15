@@ -1,28 +1,83 @@
-[![Banner-1.jpg](https://i.postimg.cc/0jh2rzwp/Banner-1.jpg)](https://postimg.cc/PvzkRrKx)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkif15&label=Profile%20views&color=0e75b6&style=flat-square" alt="rizkif15" /> </p>
-<h3 align="left">Hi 👋, I'm Rizki Fauzi</h3>
-<h3 align="left">I am a programmer and digital designer from Indonesia.</h3>
+<div align="center">
+  <img height="300" src="https://i.ibb.co/vmRCDQB/Frame-1.png"  />
+</div>
 
-- 🔭 I’m currently working on [Hi-Service](https://github.com/hi-service)
+###
 
-- 🌱 I’m currently learning **Web Developer**
+<div align="center">
+  <a href="rizkifauzi1512@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E97000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/rizki-fauzi-746280229/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=E97000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rizki_fauzi1512/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E97000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCEvIsBCvjYir9JyJvFlI1Iw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=E97000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.behance.net/rizkifauzi1512" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=E97000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://dribbble.com/rizkifauzi1512" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=E97000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+  </a>
+</div>
 
-- 📫 How to reach me **rizkifauzi1512@gmail.com**
+###
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/rizkifauzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizkifauzi" height="30" width="40" /></a>
-<a href="https://instagram.com/rizki_fauzi1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizki_fauzi1512" height="30" width="40" /></a>
-<a href="https://dribbble.com/rizkifauzi1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rizkifauzi1512" height="30" width="40" /></a>
-<a href="https://www.behance.net/rizkifauzi1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rizkifauzi1512" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCEvIsBCvjYir9JyJvFlI1Iw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rizkifauzi5131" height="30" width="40" /></a>
-</p>
+<h1 align="center">Hey there 👋</h1>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkif15&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rizkif15" /></p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rizkif15.rizkif15&left_color=orange&right_color=orangered"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkif15&show_icons=true&theme=dracula&locale=en" alt="rizkif15" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkif15&theme=dark" alt="rizkif15" /></p>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Rizki Fauzi from Indonesia<br><br>- 🔭 I'm a UI/UX Designer and Android Developer<br>- 📚 I'm currently learning Web Developer<br>- ⚡ In my free time I learn new things</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rizkif15&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizkif15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkif15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=rizkif15&theme=gruvbox&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkif15&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
