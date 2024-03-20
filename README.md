@@ -1,13 +1,4 @@
 <h1 align="center">Hey there, i'm Rizki Fauzi 👋</h1>
-
-###
-
-<div align="center">
-  <img height="300" src="https://i.ibb.co/vmRCDQB/Frame-1.png"  />
-</div>
-
-###
-
 <div align="center">
   <a href="rizkifauzi1512@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=E97000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
