@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm a UI/UX Designer and Android Developer<br>- 📚 I'm currently learning Web Developer<br>- ⚡ In my free time I learn new things</p>
+<p align="left">- 🔭 I'm a UI/UX Designer and Android Developer<br>- 📚 I'm currently learns Flutter<br>- ⚡ In my free time I plays some games</p>
 
 ###
 
